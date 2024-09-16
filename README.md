@@ -4,9 +4,9 @@ A passionate developer with experience in various technologies like **Flutter**,
 
 ## 🚀 Technologies & Tools
 
-- 🌐 **Frontend**: React, Angular
+- 🌐 **Frontend**: React, Angular, Vue, Svelte
 - 📱 **Mobile Development**: Flutter, Kotlin
-- 🐍 **Backend**: Python
+- 🐍 **Backend**: Python, NodeJS, GO, C#
 
 ## 🌐 Connect with Me
 
@@ -16,7 +16,7 @@ A passionate developer with experience in various technologies like **Flutter**,
 [![Instagram](https://img.shields.io/badge/Instagram-@devpaul_co-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/devpaul_co/)
 [![Credly](https://img.shields.io/badge/Credly-Paul%20Realpe-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/paul-realpe)
 
-## 🏆 DevCard
+## 📫 DevCard
 
 <a href="https://app.daily.dev/devpaulpro"><img src="https://api.daily.dev/devcards/v2/Wi7xmugrrmNOdLrvugODU.png?type=wide&r=f8d" width="652" alt="Paul Realpe's Dev Card"/></a>
 
