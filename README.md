@@ -1,4 +1,6 @@
-## Hi there 👋
+## Paul Realpe 👋
+
+<a href="https://app.daily.dev/devpaulpro"><img src="https://api.daily.dev/devcards/v2/Wi7xmugrrmNOdLrvugODU.png?type=wide&r=f8d" width="652" alt="Paul Realpe's Dev Card"/></a>
 
 <!--
 **paulmrg-461/paulmrg-461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
