@@ -15,6 +15,7 @@ A passionate developer with experience in various technologies like **Flutter**,
 [![X (Twitter)](https://img.shields.io/badge/X-@devpaul_co-000000?style=flat&logo=x&logoColor=white)](https://x.com/devpaul_co)
 [![Instagram](https://img.shields.io/badge/Instagram-@devpaul_co-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/devpaul_co/)
 [![Credly](https://img.shields.io/badge/Credly-Paul%20Realpe-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/paul-realpe)
+[![Platzi](https://img.shields.io/badge/Platzi-Paul%20Realpe-98CA3F?style=flat&logo=platzi&logoColor=white)](https://platzi.com/p/paulmrg461/)
 
 ## 📫 DevCard
 
