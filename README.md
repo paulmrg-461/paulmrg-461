@@ -22,7 +22,8 @@ A passionate developer with experience in various technologies like **Flutter**,
 
 ## 🏆 Certifications
 
-Visit my [Credly](https://www.credly.com/users/paul-realpe) profile to see my certifications.
+- Visit my [Credly](https://www.credly.com/users/paul-realpe) profile to see my certifications.
+- Visit my [Platzi](https://platzi.com/p/paulmrg461/) profile to see my certifications.
 
 ## 📈 GitHub Stats
 
