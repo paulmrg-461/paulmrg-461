@@ -8,6 +8,11 @@ A passionate developer with experience in various technologies like **Flutter**,
 - 📱 **Mobile Development**: Flutter, Kotlin
 - 🐍 **Backend**: Python, NodeJS, GO, C#
 
+## 📝 Portfolio & CV
+
+- 📄 [My CV](https://github.com/paulmrg-461/cv-paul-realpe)
+- 🌐 [My Portfolio](https://devpaul.pro)
+
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-realpe-631b17a6/)
@@ -33,18 +38,3 @@ A passionate developer with experience in various technologies like **Flutter**,
 ---
 
 Feel free to reach out if you'd like to collaborate on a project or just say hi! 😊
-
-<!--
-**paulmrg-461/paulmrg-461** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
