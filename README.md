@@ -4,14 +4,28 @@ A passionate developer with experience in various technologies like **Flutter**,
 
 ## 🚀 Technologies & Tools
 
-- 🌐 **Frontend**: React, Angular, Vue, Svelte
-- 📱 **Mobile Development**: Flutter, Kotlin
-- 🐍 **Backend**: Python, NodeJS, GO, C#
+- 🌐 **Frontend**: Flutter, React, Angular, Vue, Svelte
+- 📱 **Mobile Development**: Flutter, Kotlin, Swift
+- 🐍 **Backend**: Python (Flask, FastAPI), NodeJS, GO, DartFrog
+- 🛠️ **DevOps & Cloud**: AWS (Lambda, S3, EC2), Azure DevOps, Firebase, Docker
+- 🗄️ **Databases**: PostgreSQL, MongoDB, Firestore, DynamoDB
 
 ## 📝 Portfolio & CV
 
 - 📄 [My CV](https://github.com/paulmrg-461/cv-paul-realpe)
 - 🌐 [My Portfolio](https://devpaul.pro)
+
+## ⭐ Featured Projects
+
+- [Chatbot AI for Tangara](https://github.com/paulmrg-461/chatbot-tangara): An AI-powered chatbot with OpenAI fine-tuning, LLM classification, and AWS deployment.
+- [Delivery App](https://github.com/paulmrg-461/begloom-deliveries): A complete delivery management solution using Flutter and Firebase.
+- [Forecast Platform](https://github.com/paulmrg-461/forecast-platform): A trade marketing platform for data visualization using Flutter and FastAPI.
+
+## 🏅 Achievements
+
+- Developed 10+ production-level applications for Android, iOS, and Web.
+- Led projects deployed in AWS and Azure environments.
+- Contributed to reducing delivery times by 30% with optimized Flutter applications.
 
 ## 🌐 Connect with Me
 
