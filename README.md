@@ -19,8 +19,7 @@ A passionate developer with experience in various technologies like **Flutter**,
 
 - [Chatbot AI for Tangara](https://github.com/paulmrg-461/chatbot-tangara): An AI-powered chatbot with OpenAI fine-tuning, LLM classification, and AWS deployment.
 - [Delivery App](https://github.com/paulmrg-461/begloom-deliveries): A complete delivery management solution using Flutter and Firebase.
-- [Forecast Platform](https://github.com/paulmrg-461/forecast-platform): A trade marketing platform for data visualization using Flutter and FastAPI.
-
+  
 ## 🏅 Achievements
 
 - Developed 10+ production-level applications for Android, iOS, and Web.
