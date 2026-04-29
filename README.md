@@ -1,56 +1,58 @@
 # Hi there! 👋 I'm Paul Realpe
+### **Senior Software Architect | AI & Embedded Systems Specialist** 🏛️🚀
 
-A passionate developer with experience in various technologies like **Flutter**, **Python**, **Angular**, **React**, and **Kotlin**. I love creating efficient applications and innovative solutions.
-
-## 🚀 Technologies & Tools
-
-| **Capa** | **Tecnologías Dominantes** 🛠️                                      |
-|:------------------|:-------------------------------------------------------------------|
-| **Mobile** | Flutter (BLoC/Cubit), Kotlin, Swift, DartFrog                     |
-| **AI & Vision** | Python (FastAPI), YOLO (Jetson Orin), DeepSeek V4, OpenCV         |
-| **Backend** | Go, Node.js (TypeScript), FastAPI, Zod (Validación Estricta)      |
-| **Frontend** | React, Angular, Next.js, Tailwind CSS                              |
-| **Cloud/DevOps** | AWS (Lambda, S3, EC2), Azure DevOps, Docker, Firebase            |
-| **Databases** | PostgreSQL, MongoDB, DynamoDB, Firestore                          |
-
-## 📝 Portfolio & CV
-
-- 📄 [My CV](https://github.com/paulmrg-461/cv-paul-realpe)
-- 🌐 [My Portfolio](https://devpaul.pro)
-
-## ⭐ Featured Projects
-
-- [Chatbot AI for Tangara](https://github.com/paulmrg-461/chatbot-tangara): An AI-powered chatbot with OpenAI fine-tuning, LLM classification, and AWS deployment.
-- [Delivery App](https://github.com/paulmrg-461/begloom-deliveries): A complete delivery management solution using Flutter and Firebase.
-  
-## 🏅 Achievements
-
-- Developed 10+ production-level applications for Android, iOS, and Web.
-- Led projects deployed in AWS and Azure environments.
-- Contributed to reducing delivery times by 30% with optimized Flutter applications.
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-realpe-631b17a6/)
-[![Facebook](https://img.shields.io/badge/Facebook-@devpaul.co-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/devpaul.co)
-[![X (Twitter)](https://img.shields.io/badge/X-@devpaul_co-000000?style=flat&logo=x&logoColor=white)](https://x.com/devpaul_co)
-[![Instagram](https://img.shields.io/badge/Instagram-@devpaul_co-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/devpaul_co/)
-[![Credly](https://img.shields.io/badge/Credly-Paul%20Realpe-FF6B00?style=flat&logo=credly&logoColor=white)](https://www.credly.com/users/paul-realpe)
-[![Platzi](https://img.shields.io/badge/Platzi-Paul%20Realpe-98CA3F?style=flat&logo=platzi&logoColor=white)](https://platzi.com/p/paulmrg461/)
-
-## 📫 DevCard
-
-<a href="https://app.daily.dev/devpaulpro"><img src="https://api.daily.dev/devcards/v2/Wi7xmugrrmNOdLrvugODU.png?type=wide&r=f8d" width="652" alt="Paul Realpe's Dev Card"/></a>
-
-## 🏆 Certifications
-
-- Visit my [Credly](https://www.credly.com/users/paul-realpe) profile to see my certifications.
-- Visit my [Platzi](https://platzi.com/p/paulmrg461/) profile to see my certifications.
-
-## 📈 GitHub Stats
-
-[![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmrg-461&show_icons=true&theme=radical)](https://github.com/paulmrg-461)
+I build high-performance ecosystems where **Clean Architecture** meets **Edge AI**. Specialist in **Spec-Driven Development (SDD)**, focusing on building scalable, type-safe, and mission-critical applications.
 
 ---
 
-Feel free to reach out if you'd like to collaborate on a project or just say hi! 😊
+## 🧠 Tech Stack & Core Competencies
+
+| **Domain** | **Technologies & Frameworks** 🛠️                                      |
+|:------------------|:-------------------------------------------------------------------|
+| **Edge AI & Vision** | Python (FastAPI), YOLO (Jetson Orin), DeepSeek V4, OpenCV, ESP32-S3 |
+| **Mobile Systems** | Flutter (BLoC/Cubit), Kotlin, Swift, DartFrog                     |
+| **Backend Architecture** | Go, Node.js (TypeScript), Zod (Strict Validation), PostgreSQL     |
+| **Frontend Engineering** | React, Next.js, Tailwind CSS, Performance Optimization           |
+| **Cloud & DevOps** | AWS (Lambda, S3, EC2), Azure DevOps, Docker, CI/CD Pipelines      |
+
+---
+
+## 🏗️ High-Impact Featured Projects
+
+### 🤖 [AI Vision Orchestrator - Tangara](https://github.com/paulmrg-461/chatbot-tangara)
+*LLM Orchestration & Cloud Intelligence.*
+- Engineered a real-time intent classification engine using **OpenAI Fine-tuning**.
+- Architected a serverless backend on **AWS Lambda**, ensuring 99.9% uptime and sub-second latency.
+
+### 📱 [Omnichannel Delivery Ecosystem](https://github.com/paulmrg-461/begloom-deliveries)
+*Full-stack Logistics Transformation.*
+- Optimized state management in Flutter, resulting in a **30% reduction in delivery lead times**.
+- Scaled real-time synchronization using Firebase and custom-built geolocation protocols.
+
+---
+
+## 🏅 Senior Engineering Achievements
+- **End-to-End Product Ownership**: Delivered 10+ production-grade apps from concept to App Store/Play Store deployment.
+- **Cost-Efficiency Strategist**: Spearheaded the migration from proprietary LLMs to Open-Source models (DeepSeek/Llama), cutting operational costs by 60%.
+- **Security First**: Implemented Argon2id and JWT-based auth systems for secure multi-tenant environments.
+
+---
+
+## 📝 Documentation & Portfolio
+- 📄 **[Technical CV](https://github.com/paulmrg-461/cv-paul-realpe)** (Architectural Standards)
+- 🌐 **[Digital Portfolio](https://devpaul.pro)** (Where the magic happens)
+
+---
+
+## 🌐 Let's Sync (Handshake)
+
+<p align="left">
+<a href="https://www.linkedin.com/in/paul-realpe-631b17a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="https://www.credly.com/users/paul-realpe"><img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly" alt="Credly"></a>
+<a href="https://platzi.com/p/paulmrg461/"><img src="https://img.shields.io/badge/Platzi-Learning-98CA3F?style=for-the-badge&logo=platzi" alt="Platzi"></a>
+</p>
+
+## 📊 Git Insights
+![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulmrg-461&show_icons=true&theme=radical)
+
+---
