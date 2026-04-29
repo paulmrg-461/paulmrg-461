@@ -4,11 +4,14 @@ A passionate developer with experience in various technologies like **Flutter**,
 
 ## 🚀 Technologies & Tools
 
-- 🌐 **Frontend**: Flutter, React, Angular, Vue, Svelte
-- 📱 **Mobile Development**: Flutter, Kotlin, Swift
-- 🐍 **Backend**: Python (Flask, FastAPI), NodeJS, GO, DartFrog
-- 🛠️ **DevOps & Cloud**: AWS (Lambda, S3, EC2), Azure DevOps, Firebase, Docker
-- 🗄️ **Databases**: PostgreSQL, MongoDB, Firestore, DynamoDB
+| **Capa** | **Tecnologías Dominantes** 🛠️                                      |
+|:------------------|:-------------------------------------------------------------------|
+| **Mobile** | Flutter (BLoC/Cubit), Kotlin, Swift, DartFrog                     |
+| **AI & Vision** | Python (FastAPI), YOLO (Jetson Orin), DeepSeek V4, OpenCV         |
+| **Backend** | Go, Node.js (TypeScript), FastAPI, Zod (Validación Estricta)      |
+| **Frontend** | React, Angular, Next.js, Tailwind CSS                              |
+| **Cloud/DevOps** | AWS (Lambda, S3, EC2), Azure DevOps, Docker, Firebase            |
+| **Databases** | PostgreSQL, MongoDB, DynamoDB, Firestore                          |
 
 ## 📝 Portfolio & CV
 
