@@ -4,10 +4,10 @@
   </a>
 </p>
 
-<h1 align="center">Paul Realpe</h1>
+<h1 align="center">DevPaul</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer &amp; Founder of DevPaul</strong><br>
+  <strong>Paul Realpe · Senior Software Engineer</strong><br>
   Popayán, Colombia · Remote work
 </p>
 
