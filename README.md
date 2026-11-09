@@ -1,18 +1,18 @@
 <p align="center">
-  <a href="https://realneers.web.app">
-    <img src="https://realneers.web.app/og.png" alt="RealNeers — Software engineering firm" width="100%">
+  <a href="https://devpaul-ed0bb.web.app">
+    <img src="./assets/devpaul-banner.png" alt="DevPaul — Software that operates in the real world" width="100%">
   </a>
 </p>
 
 <h1 align="center">Paul Realpe</h1>
 
 <p align="center">
-  <strong>Senior Software Engineer &amp; Founder · AI, Computer Vision and Platforms</strong><br>
+  <strong>Senior Software Engineer &amp; Founder of DevPaul</strong><br>
   Popayán, Colombia · Remote work
 </p>
 
 <p align="center">
-  <a href="https://realneers.web.app"><img src="https://img.shields.io/badge/Website-realneers.web.app-E1764A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="RealNeers website"></a>
+  <a href="https://devpaul-ed0bb.web.app"><img src="https://img.shields.io/badge/Website-devpaul--ed0bb.web.app-E1764A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevPaul website"></a>
   <a href="https://www.linkedin.com/in/paul-realpe-631b17a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:co.devpaul@gmail.com"><img src="https://img.shields.io/badge/Email-co.devpaul%40gmail.com-0A0F14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://wa.me/573043162313"><img src="https://img.shields.io/badge/WhatsApp-%2B57_304_316_2313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
@@ -22,9 +22,9 @@
 
 I design, build and operate critical software systems: **computer vision, operations platforms and digital products**. More than seven years shipping software from the first requirement to production and on-site operation.
 
-I am the founder of **DevPaul** and co-founder of **RealNeers**, the engineering firm I run with my brother **Jimmy Realpe**. We work as a small senior team: fewer layers, faster decisions and direct accountability for every system we put into production.
+I am the founder of **DevPaul**, my product and engineering studio. I work with my brother **Jimmy Realpe** on selected projects and with a small senior team: fewer layers, faster decisions and direct accountability for every system we put into production.
 
-> **2026:** launched **RealNeers**, a bilingual engineering-firm site with a 21-project portfolio, and refreshed **DevPaul** around production systems and measurable delivery.
+> **2026:** refreshed the **DevPaul** portfolio around production systems, capabilities and measurable delivery.
 
 ## Current focus
 
@@ -33,13 +33,13 @@ I am the founder of **DevPaul** and co-founder of **RealNeers**, the engineering
 - **Product engineering** — web and mobile applications where reliability, performance and maintainability matter.
 - **Applied AI** — agents, RAG and automation over business data, with human oversight and traceability.
 
-## Ventures
+## DevPaul
 
-| Venture | What it is | Link |
-|:--|:--|:--|
-| **RealNeers** | Engineering firm co-founded with Jimmy Realpe. Bilingual ES/EN portfolio with 21 documented projects across vision, product, web and mobile. | [realneers.web.app](https://realneers.web.app) |
-| **DevPaul** | Product and engineering studio for computer vision, operations SaaS and digital commerce. Four systems in production. | [devpaul-ed0bb.web.app](https://devpaul-ed0bb.web.app) |
-| **Jimmy Realpe** | Full-stack portfolio of my brother and partner: Flutter, React, Angular and Python. | [jimmy-realpe.web.app](https://jimmy-realpe.web.app) |
+**DevPaul** is my product and engineering studio: computer vision, operations SaaS and digital commerce. Four systems in production.
+
+[devpaul-ed0bb.web.app](https://devpaul-ed0bb.web.app)
+
+I also collaborate with my brother [Jimmy Realpe](https://jimmy-realpe.web.app) on selected product and engineering engagements.
 
 ## Selected work
 
@@ -91,9 +91,7 @@ I am the founder of **DevPaul** and co-founder of **RealNeers**, the engineering
 
 ## Portfolio & CV
 
-- 🌐 **RealNeers — engineering firm:** [realneers.web.app](https://realneers.web.app)
-- 🧭 **DevPaul — selected work:** [devpaul-ed0bb.web.app](https://devpaul-ed0bb.web.app)
-- 👤 **Jimmy Realpe — full-stack portfolio:** [jimmy-realpe.web.app](https://jimmy-realpe.web.app)
+- 🌐 **DevPaul — portfolio and selected work:** [devpaul-ed0bb.web.app](https://devpaul-ed0bb.web.app)
 - 📄 **Technical CV:** [github.com/paulmrg-461/cv-paul-realpe](https://github.com/paulmrg-461/cv-paul-realpe)
 
 ## Connect
@@ -109,5 +107,5 @@ I am the founder of **DevPaul** and co-founder of **RealNeers**, the engineering
 
 <p align="center">
   <strong>Open to selected engineering engagements.</strong><br>
-  <a href="mailto:co.devpaul@gmail.com">co.devpaul@gmail.com</a> · <a href="https://realneers.web.app">realneers.web.app</a>
+  <a href="mailto:co.devpaul@gmail.com">co.devpaul@gmail.com</a> · <a href="https://devpaul-ed0bb.web.app">devpaul-ed0bb.web.app</a>
 </p>
