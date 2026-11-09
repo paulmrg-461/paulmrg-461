@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://devpaul-ed0bb.web.app"><img src="https://img.shields.io/badge/Website-devpaul--ed0bb.web.app-E1764A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevPaul website"></a>
+  <a href="https://devpaul-ed0bb.web.app"><img src="https://img.shields.io/badge/Website-DevPaul-E1764A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="DevPaul website"></a>
   <a href="https://www.linkedin.com/in/paul-realpe-631b17a6/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:co.devpaul@gmail.com"><img src="https://img.shields.io/badge/Email-co.devpaul%40gmail.com-0A0F14?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://wa.me/573043162313"><img src="https://img.shields.io/badge/WhatsApp-%2B57_304_316_2313-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
@@ -39,7 +39,7 @@ I am the founder of **DevPaul**, my product and engineering studio. I work with 
 
 [devpaul-ed0bb.web.app](https://devpaul-ed0bb.web.app)
 
-I also collaborate with my brother [Jimmy Realpe](https://jimmy-realpe.web.app) on selected product and engineering engagements.
+Alongside DevPaul, I co-founded **RealNeers** with my brother [Jimmy Realpe](https://jimmy-realpe.web.app): an engineering firm with a bilingual portfolio of 21 projects across computer vision, product, web and mobile. [realneers.web.app](https://realneers.web.app)
 
 ## Selected work
 
